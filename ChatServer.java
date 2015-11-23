@@ -119,4 +119,4 @@ class ServerThread extends Thread
             server.removeConnection(name,socket);
         }
     }
-}
+} // add some comments
